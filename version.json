@@ -1,7 +1,7 @@
 ﻿{
-    "sourceRepository":  "fcb1010",
-    "sourceBranch":  "codex/live-rpi-direct-midi",
-    "sourceCommit":  "b454b62967ee515a4c8925906de5ddfca0052256",
+    "sourceRepository":  "fcb-maintenance-ui",
+    "sourceBranch":  "main",
+    "sourceCommit":  "9d90171a9836612fd44a36e593388c4e55955a58",
     "sourceDirty":  false,
-    "builtAtUtc":  "2026-06-27T10:27:05Z"
+    "builtAtUtc":  "2026-06-27T10:38:00Z"
 }
