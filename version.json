@@ -1,8 +1,8 @@
 {
-  "appVersion": "2.1.27",
+  "appVersion": "2.1.28",
   "sourceRepository": "fcb-maintenance-ui",
   "sourceBranch": "main",
-  "sourceCommit": "dd88c593919e70557a3983611066e5334f46722a",
+  "sourceCommit": "e50914c5c83c0cfa031ef245f25cb8c4a706022e",
   "sourceDirty": false,
-  "builtAtUtc": "2026-08-22T14:33:05Z"
+  "builtAtUtc": "2026-08-22T14:39:37Z"
 }
